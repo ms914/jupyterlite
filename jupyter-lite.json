@@ -1,4 +1,4 @@
 {
   "jupyter-lite-schema-version": 0,
-  "defaultRoute": "lab/index.html?path=00_Startseite.ipynb"
+  "defaultRoute": "lab/index.html?path=/content/00_Startseite.ipynb"
 }
